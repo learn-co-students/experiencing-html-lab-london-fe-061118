@@ -1,0 +1,5 @@
+"Tottenham"
+"Arsenal"
+"West Ham"
+"Chelsea"
+"Fulham"
